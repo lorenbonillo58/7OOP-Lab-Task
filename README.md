@@ -99,11 +99,11 @@
   
   <a href="https://www.facebook.com/lorenbonillo">
     <img src="https://cdn.simpleicons.org/facebook/1877F2" width="30" height="30" alt="facebook logo"  />
-    <sup>• I’m always online here, don’t hesitate to drop me a message!</sup>
+    <sup>• Loren Bonillo!</sup>
   </a><br>
   
   <a href="https://www.youtube.com/channel/UCeGyIW5X-NfGSvF5SEfdWiw">
     <img src="https://cdn.simpleicons.org/youtube/FF0000" width="25" height="25" alt="youtube logo"  />
-    <sup>• This is where I upload my videos.</sup>
+    <sup>• Here's my singing channel.</sup>
   </a>
 </div>
