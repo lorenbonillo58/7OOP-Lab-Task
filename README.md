@@ -11,15 +11,15 @@
 <h2 align="left">About Me:</h2>
 
 <p align="left">
-• 🎨 I enjoy playing FPS games like Valorant.<br>
-• 🌱 Always curious and trying things.<br>
-• 🥅 2025 Goal: Learn, build projects, and improve as a developer.<br>
-• 💻 I’m currently learning Python, CSS, and JavaScript
+• 🎨 I enjoy playing FPS games.<br>
+• 🌱 Always curious, always exploring new things.<br>
+• 🥅 2025 Goal: I'm not intimidated by learning new things.<br>
+• 💻 I’m currently learning Python, CSS, and JavaScript.<br>
 • 🎉 Fun fact: I love singing, dancing and playing instruments.
 </p>
 
 <div align="center">
-  <img height="200" src="https://pbs.twimg.com/profile_banners/1136522348993974274/1735935173/1500x500"  />
+  <img height="200" src="https://www.facebook.com/photo?fbid=24835015166115831&set=a.136990169678340"  />
 </div>
 
 <h2 align="left">Areas of Interest, Languages & Tools:</h2>
@@ -69,11 +69,11 @@
 <h2 align="left">Fun Facts About Me:</h2>
 
 <p align="left">
-• 🤯 I thought there’s no math in Computer Science. <br>
-• 🗺️ I enjoy traveling and exploring new places.  <br>
+• 🤯 I hate math, but I'm here anyway. <br>
+• 🗺️ I’m an ambivert sometimes extroverted, but mostly introverted.  <br>
 • 🎮 Playing online games is my hobby.  <br>
-• 😌 Sometimes smart sometimes dumb.  <br>
-• ☕ Coffee and Tofu are my favorites.  <br>
+• 😌 I'm always here, 24/7 no coffee needed.  <br>
+• ☕ Cooking and eating are two of my favorite things.  <br>
 </p>
 
 <h2 align="left">Connect with Me:</h2>
