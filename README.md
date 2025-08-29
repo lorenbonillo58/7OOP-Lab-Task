@@ -29,10 +29,16 @@
 ###
 
 <h2 align="left">Projects</h2>
-
 ###
 
-<h6 align="left">Midterm</h6>
+**Midterms Projects**  
+- [Project 1](#) <sup>test</sup>  
+- [Project 2](#) <sup>test</sup>  
+
+**Finals Projects**  
+- [Project 1](#) <sup>test</sup>  
+- [Project 2](#) <sup>test</sup> 
+
 
 ###
 
