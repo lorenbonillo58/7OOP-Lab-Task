@@ -18,10 +18,6 @@ Hi, I’m Loren Bonillo, and I’m taking up Computer Science under BSCS-C204 at
 • 🎤 I love singing, dancing and playing instruments.
 </p>
 
-<div align="center">
-  <img height="500" src="c204.jpg"  />
-</div>
-
 <h2 align="left">Areas of Interest, Languages & Tools:</h2>
 
 <p align="left">
