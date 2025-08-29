@@ -5,17 +5,17 @@
 </div>
 
 <h3 align="center">
-👋 Hi, I’m Loren Bonillo, a Computer Science student<br> from BSCS-C204 at City College of Angeles.
+Hi, I’m Loren Bonillo, and I’m taking up Computer Science under BSCS-C204 at City College of Angeles.
 </h3>
 
 <h2 align="left">About Me:</h2>
 
 <p align="left">
-• 🎨 I enjoy playing FPS games.<br>
+• 🐱 I love cats.<br>
 • 🌱 Always curious, always exploring new things.<br>
-• 🥅 2025 Goal: I'm not intimidated by learning new things.<br>
-• 💻 I’m currently learning Python, CSS, and JavaScript.<br>
-• 🎉 I love singing, dancing and playing instruments.
+• 👠 I'm a sneakerhead.<br>
+• 🎥 I enjoy watching documentaries.<br>
+• 🎤 I love singing, dancing and playing instruments.
 </p>
 
 <div align="center">
