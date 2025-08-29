@@ -19,7 +19,7 @@
 </p>
 
 <div align="center">
-  <img height="300" src="c204.jpg"  />
+  <img height="500" src="c204.jpg"  />
 </div>
 
 <h2 align="left">Areas of Interest, Languages & Tools:</h2>
