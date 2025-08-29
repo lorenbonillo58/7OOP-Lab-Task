@@ -1,7 +1,7 @@
 <h1 align="center">Loren Bonillo </h1>
 
 <div align="center">
-  <img height="150" src="https://pbs.twimg.com/profile_images/1802710354084188160/7PgeVFpH_400x400.jpg"  />
+  <img height="150" src="539377869_24835015176115830_5303447638374448476_n.jpeg"  />
 </div>
 
 <h3 align="center">
