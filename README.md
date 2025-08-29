@@ -31,13 +31,13 @@
 <h2 align="left">Projects</h2>
 
 **Midterms Projects**  
-- [Project 1](#) <sup>test</sup>  
-- [Project 2](#) <sup>test</sup>  
+- [Project 1](#) 
+- [Project 2](#)  
 
 **Finals Projects**  
-- [Project 1](#) <sup>test</sup>  
-- [Project 2](#) <sup>test</sup>
-- 
+- [Project 1](#) 
+- [Project 2](#) 
+  
 ###
 
 <h2 align="left">FUN FACTS about ME</h2>
