@@ -1,21 +1,21 @@
 <h1 align="center">Loren Bonillo </h1>
 
 <div align="center">
-  <img height="150" src="539377869_24835015176115830_5303447638374448476_n.jpeg"  />
+  <img height="150" src="https://www.facebook.com/photo?fbid=24835015166115831&set=a.136990169678340"  />
 </div>
 
 <h3 align="center">
-👋 Hi, I’m Gabriel Elmo Angeles, a Computer Science student<br> from BSCS-C204 at City College of Angeles.
+👋 Hi, I’m Loren Bonillo, a Computer Science student<br> from BSCS-C204 at City College of Angeles.
 </h3>
 
 <h2 align="left">About Me:</h2>
 
 <p align="left">
-• 🎨 I enjoy editing stuff like GFX, vlogs, and gaming videos.<br>
-• 💻 I’m currently learning Python, CSS, and JavaScript.<br>
-• 🌱 Always curious and trying to grow my skills.<br>
+• 🎨 I enjoy playing FPS games like Valorant.<br>
+• 🌱 Always curious and trying things.<br>
 • 🥅 2025 Goal: Learn, build projects, and improve as a developer.<br>
-• 🎉 Fun fact: I love traveling and playing rhythm games.
+• 💻 I’m currently learning Python, CSS, and JavaScript
+• 🎉 Fun fact: I love singing, dancing and playing instruments.
 </p>
 
 <div align="center">
