@@ -29,7 +29,6 @@
 ###
 
 <h2 align="left">Projects</h2>
-###
 
 **Midterms Projects**  
 - [Project 1](#) <sup>test</sup>  
