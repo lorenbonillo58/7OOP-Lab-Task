@@ -15,7 +15,7 @@
 • 🌱 Always curious, always exploring new things.<br>
 • 🥅 2025 Goal: I'm not intimidated by learning new things.<br>
 • 💻 I’m currently learning Python, CSS, and JavaScript.<br>
-• 🎉 Fun fact: I love singing, dancing and playing instruments.
+• 🎉 I love singing, dancing and playing instruments.
 </p>
 
 <div align="center">
