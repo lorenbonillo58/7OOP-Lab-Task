@@ -1,7 +1,7 @@
 <h1 align="center">Loren Bonillo </h1>
 
 <div align="center">
-  <img height="150" src="https://www.facebook.com/photo?fbid=24835015166115831&set=a.136990169678340"  />
+  <img height="150" src="loren.jpg"  />
 </div>
 
 <h3 align="center">
@@ -84,12 +84,12 @@
     <sup>• I hang out here most of the time, so you can easily reach me.</sup>
   </a><br> 
 
-  <a href="https://www.facebook.com/angelesge11" target="_blank">
+  <a href="https://www.facebook.com/lorenbonillo">
     <img src="https://cdn.simpleicons.org/facebook/1877F2" width="25" height="25" alt="facebook logo"  />
     <sup>• I’m always online here, don’t hesitate to drop me a message!</sup>
   </a><br>
 
-  <a href="https://www.youtube.com/@gabzumii/videos" target="_blank">
+  <a href="https://www.youtube.com/channel/UCeGyIW5X-NfGSvF5SEfdWiw">
     <img src="https://cdn.simpleicons.org/youtube/FF0000" width="25" height="25" alt="youtube logo"  />
     <sup>• This is where I upload my videos.</sup>
   </a>
