@@ -95,19 +95,14 @@
 ###
 
 <h2 align="left">Social Media</h2>
-###
-<div align="left">
-  <a href="https://discordapp.com/users/578812855193960452" target="_blank">
-    <img src="https://cdn.simpleicons.org/discord/5865F2" width="25" height="25" alt="discord logo"  />
-    <sup>• I hang out here most of the time, so you can easily reach me.</sup>
-  </a><br> 
-###
-  <a href="https://www.facebook.com/angelesge11" target="_blank">
-    <img src="https://cdn.simpleicons.org/facebook/1877F2" width="25" height="25" alt="facebook logo"  />
+<div align="left"> 
+  
+  <a href="https://www.facebook.com/lorenbonillo">
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" width="30" height="30" alt="facebook logo"  />
     <sup>• I’m always online here, don’t hesitate to drop me a message!</sup>
   </a><br>
-###
-  <a href="https://www.youtube.com/@gabzumii/videos" target="_blank">
+  
+  <a href="https://www.youtube.com/channel/UCeGyIW5X-NfGSvF5SEfdWiw">
     <img src="https://cdn.simpleicons.org/youtube/FF0000" width="25" height="25" alt="youtube logo"  />
     <sup>• This is where I upload my videos.</sup>
   </a>
