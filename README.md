@@ -19,7 +19,7 @@
 </p>
 
 <div align="center">
-  <img height="200" src="https://www.facebook.com/photo?fbid=24835015166115831&set=a.136990169678340"  />
+  <img height="200" src="c204.jpg"  />
 </div>
 
 <h2 align="left">Areas of Interest, Languages & Tools:</h2>
