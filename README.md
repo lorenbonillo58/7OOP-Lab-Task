@@ -1,7 +1,7 @@
 <h1 align="center">Loren Bonillo </h1>
 
 <div align="center">
-  <img height="150" src="loren.jpg"  />
+  <img height="250" src="loren.jpg"  />
 </div>
 
 <h3 align="center">
@@ -19,7 +19,7 @@
 </p>
 
 <div align="center">
-  <img height="200" src="c204.jpg"  />
+  <img height="300" src="c204.jpg"  />
 </div>
 
 <h2 align="left">Areas of Interest, Languages & Tools:</h2>
