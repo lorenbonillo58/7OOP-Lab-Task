@@ -13,6 +13,7 @@
   • 👠 I'm a sneakerhead.<br>
   • 🎥 I enjoy watching documentaries.<br>
   • 🎤 I love singing, dancing and playing instruments.</h6>
+  </p>
   
 <h2 align="left">Areas of Interest, Languages & Tools:</h2>
 <h6 align="left">
@@ -21,7 +22,7 @@
   • 🌐 Web Development<br>
   • 🐱 Git & GitHub<br>
   • 🔧 Software Engineering</h6>
-
+</p>
 
 <h2 align="left">Projects</h2>
 
@@ -32,7 +33,7 @@
 **Finals Projects**  
 - [Project 1](#) 
 - [Project 2](#) 
-  
+  </p>
 
 <h2 align="left">FUN FACTS about ME</h2>
 <h6 align="left">
@@ -41,7 +42,7 @@
   • 🎮 Playing online games is my hobby.<br>
   • 😌 I'm always here, 24/7 no coffee needed.<br>
   • 🍝 Cooking and eating are two of my favorite things.</h6>
-
+</p>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
@@ -58,7 +59,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
-
+</p>
 
 <h2 align="left">Social Media</h2>
 <div align="left"> 
