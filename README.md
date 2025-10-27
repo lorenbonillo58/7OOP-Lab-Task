@@ -13,6 +13,7 @@
   • 👠 I'm a sneakerhead.<br>
   • 🎥 I enjoy watching documentaries.<br>
   • 🎤 I love singing, dancing and playing instruments.</h6>
+
   
 <h2 align="left">Areas of Interest, Languages & Tools:</h2>
 <h6 align="left">
@@ -22,7 +23,9 @@
   • 🐱 Git & GitHub<br>
   • 🔧 Software Engineering</h6>
 
+
 <h2 align="left">Projects</h2>
+
 
 **Midterms Projects**  
 - [Paired Lab Task](https://github.com/lorenbonillo58/7OOP-Lab-Task/blob/main/Midtermlabtask/Midterm%20Paired%20Task.pdf) <sup> Object Oriented Analysis and Design </sup>
@@ -32,7 +35,8 @@
 - [Midterm Lab Task 3](https://github.com/lorenbonillo58/7OOP-Lab-Task/blob/main/Midtermlabtask/Midterm%20Lab%20Task%203%20-%20Python%20List%20Collections.pdf)  <sup> Python List Collections Using List Collections Types </sup>
 - [Midterm Lab Task 4](https://github.com/lorenbonillo58/7OOP-Lab-Task/blob/main/Midtermlabtask/Midterm%20Lab%20Task%204.pdf)  <sup> Using Dictionaries </sup>
 - [Midterm Lab Task 5](https://github.com/lorenbonillo58/7OOP-Lab-Task/blob/main/Midtermlabtask/Midterm%20Task%205%20Bonillo.pdf) <sup> Creating Class and Instantiating </sup>
-- 
+
+  
 **Finals Projects**  
 - [Finals Lab Task 1](#) <sup> Encapsulation </sup>
 
@@ -59,6 +63,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
+
 
 <h2 align="left">Social Media</h2>
 <div align="left"> 
