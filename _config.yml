@@ -1,3 +1,5 @@
-theme: jekyll-theme-midnights
 title: "Loren Bonillo"
 description: "7OOP Lab Task"
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-dinky
