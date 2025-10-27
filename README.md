@@ -27,12 +27,16 @@
 <h2 align="left">Projects</h2>
 
 **Midterms Projects**  
-- [Project 1](#) 
-- [Project 2](#)  
-
+- [Paired Lab Task]("https://github.com/lorenbonillo58/7OOP-Lab-Task/blob/main/Midtermlabtask/Midterm%20Paired%20Task.pdf") <sup> Object Oriented Analysis and Design </sup>
+- [7OOP Lab Task]("https://github.com/lorenbonillo58/7OOP-Lab-Task/blob/main/Midtermlabtask/Midterm%20Lab%20task%201.pdf")  <sup> Github Repository Markdown </sup>
+- [Midterm Lab Task 1]("https://github.com/lorenbonillo58/7OOP-Lab-Task/blob/main/Midtermlabtask/Midterm%20Lab%20Task%202.pdf")  <sup> Escape Sequence, Type Specifiers, Accept User Input and Day Identifier </sup>
+- [Midterm Lab Task 2]("https://github.com/lorenbonillo58/7OOP-Lab-Task/blob/main/Midtermlabtask/Midterm%20Lab%20Task%202.pdf")  <sup> Using Loops and Functions </sup>
+- [Midterm Lab Task 3]("https://github.com/lorenbonillo58/7OOP-Lab-Task/blob/main/Midtermlabtask/Midterm%20Lab%20Task%203%20-%20Python%20List%20Collections.pdf")  <sup> Python List Collections Using List Collections Types </sup>
+- [Midterm Lab Task 4]("https://github.com/lorenbonillo58/7OOP-Lab-Task/blob/main/Midtermlabtask/Midterm%20Lab%20Task%204.pdf")  <sup> Using Dictionaries </sup>
+- [Midterm Lab Task 5]("https://github.com/lorenbonillo58/7OOP-Lab-Task/blob/main/Midtermlabtask/Midterm%20Task%205%20Bonillo.pdf") <sup> Creating Class and Instantiating </sup>
+- 
 **Finals Projects**  
-- [Project 1](#) 
-- [Project 2](#) 
+- [Finals Lab Task 1](#) <sup> Encapsulation </sup>
   </p>
 
 <h2 align="left">FUN FACTS about ME</h2>
