@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img height="200" src="loren.jpg"  />
+  <img height="200" src="lorenb.jpg"  />
 </div>
 
 <h3 align="center">Hi, I’m Loren Bonillo, and I’m taking up Computer Science under BSCS-C204 at City College of Angeles.</h3>
