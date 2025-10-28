@@ -13,11 +13,7 @@
   
 <h2 align="left">Areas of Interest, Languages & Tools:</h2>
 <h6 align="left">
-  •  📈 Data Structures and Algorithms<br>
-  • 🖌️ Graphics Design<br>
-  • 🌐 Web Development<br>
-  • 🐱 Git & GitHub<br>
-  • 🔧 Software Engineering</h6>
+ I am skilled in various areas of technology, including Data Structures and Algorithms 📈, which strengthen my problem-solving and programming foundation. I also have experience in Graphics Design 🖌️, allowing me to create visually appealing and user-friendly interfaces. My knowledge in Web Development 🌐 helps me build responsive and functional websites. Additionally, I am familiar with Git and GitHub 🐱 for version control and collaboration, and I apply Software Engineering principles 🔧 to ensure efficient, scalable, and maintainable project development. </h6>
 
 
 <h2 align="left">Projects</h2>
