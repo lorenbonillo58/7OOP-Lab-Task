@@ -8,11 +8,7 @@
 <h3 align="center">Hi, I’m Loren Bonillo, and I’m taking up Computer Science under BSCS-C204 at City College of Angeles.</h3>
 <h1 align="left">About me</h1>
 <h6 align="left">
-  • 🐱 I love cats.<br>
-  • 🌱 Always curious, always exploring new things.<br>
-  • 👠 I'm a sneakerhead.<br>
-  • 🎥 I enjoy watching documentaries.<br>
-  • 🎤 I love singing, dancing and playing instruments.</h6>
+ I love cats and enjoy spending time with them whenever I can. I’m always curious and love exploring new things, whether it’s learning a new skill or discovering a new place. I’m also a sneakerhead who enjoys collecting and styling different pairs of sneakers. In my free time, I like watching documentaries that open my mind to new perspectives. I also have a passion for music — I love singing, dancing, and playing instruments. </h6>
 
   
 <h2 align="left">Areas of Interest, Languages & Tools:</h2>
