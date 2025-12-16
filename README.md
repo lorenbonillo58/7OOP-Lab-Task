@@ -30,7 +30,13 @@
 
   
 **Finals Projects**  
-- [Finals Lab Task 1](#) <sup> Encapsulation </sup>
+- [Finals Lab Task 1](https://github.com/lorenbonillo58/7OOP-Lab-Task/blob/main/Midtermlabtask/Finals%20Lab%20Task%201.pdf) Encapsulation </sup>
+- [Finals Lab Task 2](https://github.com/lorenbonillo58/7OOP-Lab-Task/blob/main/Midtermlabtask/Finals%20Lab%20Task%202.pdf)<sup> Inheritance </sup>
+- [Finals Lab Task 3](https://github.com/lorenbonillo58/7OOP-Lab-Task/blob/main/Midtermlabtask/Finals%20Lab%20Task3.pdf) <sup> Simple Polymorphism </sup>
+- [Finals Lab Task 4](https://github.com/lorenbonillo58/7OOP-Lab-Task/blob/main/Midtermlabtask/Finals%20Task%204.%20Python%20and%20Tkinter%20GUI%20program.pdf) <sup> Python and Tkinter GUI program </sup>
+- [Finals Lab Task 5](https://github.com/lorenbonillo58/7OOP-Lab-Task/blob/main/Midtermlabtask/Finals%20Lab%20task%205.pdf)<sup> CRUD CLI using Python and MySQL </sup>
+- [Finals Lab Task 6](https://github.com/lorenbonillo58/7OOP-Lab-Task/blob/main/Midtermlabtask/s%20FinalkLab%20Task%206.pdf)<sup> Mysql and Tkinter HUI </sup>
+
 
 <h2 align="left">FUN FACTS about ME</h2>
 <h6 align="left">
